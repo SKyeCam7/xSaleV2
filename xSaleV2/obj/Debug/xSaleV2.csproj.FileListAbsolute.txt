@@ -1,0 +1,10 @@
+c:\users\skyler\documents\visual studio 2015\Projects\xSaleV2\xSaleV2\bin\Debug\xSaleV2.exe.config
+c:\users\skyler\documents\visual studio 2015\Projects\xSaleV2\xSaleV2\bin\Debug\xSaleV2.exe
+c:\users\skyler\documents\visual studio 2015\Projects\xSaleV2\xSaleV2\bin\Debug\xSaleV2.pdb
+c:\users\skyler\documents\visual studio 2015\Projects\xSaleV2\xSaleV2\obj\Debug\xSaleV2.csprojResolveAssemblyReference.cache
+c:\users\skyler\documents\visual studio 2015\Projects\xSaleV2\xSaleV2\obj\Debug\xSaleV2.Properties.Resources.resources
+c:\users\skyler\documents\visual studio 2015\Projects\xSaleV2\xSaleV2\obj\Debug\xSaleV2.StartForm.resources
+c:\users\skyler\documents\visual studio 2015\Projects\xSaleV2\xSaleV2\obj\Debug\xSaleV2.csproj.GenerateResource.Cache
+c:\users\skyler\documents\visual studio 2015\Projects\xSaleV2\xSaleV2\obj\Debug\xSaleV2.exe
+c:\users\skyler\documents\visual studio 2015\Projects\xSaleV2\xSaleV2\obj\Debug\xSaleV2.pdb
+c:\users\skyler\documents\visual studio 2015\Projects\xSaleV2\xSaleV2\obj\Debug\xSaleV2.ImportForm.resources
